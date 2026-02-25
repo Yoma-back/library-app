@@ -20,7 +20,3 @@ Thumbs.db
 # Generated files
 /bin/
 /target/
-
-# 초기 커밋 전 패키지를 생성..
-src/main/java/com/group/libraryapp/controller/
-src/main/java/com/group/libraryapp/dto/
